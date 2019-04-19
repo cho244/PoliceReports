@@ -43,9 +43,7 @@ My next idea was Kolmogorov-Smirnov t-test. Kolmogorov-Smirnov t-test would test
 
 
 ## 5. 
-![header](img/gan1.jpg)
 The p-value did not overcome the 0.05 threshold. Month-to-month has more variance. New York has more severe seasons while in the contrary California has more mild weather. Crime reports does is higher in warmer weathers for the colder areas. My dataset would probably perform better if I didn't seperate the years into months but I don't have enough months lined up.
-![header](img/gan2.jpg)
 
 ## 6. Next Steps
 I would have to be careful with adjusting my p-vales and lower my threshold to make it more difficult to reject my null hypothesis, but I would like to go into each crime and see the statics on each one of them and the rate of change. I would also look into more cities to have data to compare it to. I was thinking of waiting another 5 years and updating with a bigger dataset.
