@@ -71,4 +71,3 @@ I loved my Statistical Thermodyamics Physics class. It wasn't just a class I fou
 6. [*LAPD Open Data Complaint Data Hortorical (2010-2018)*](https://data.lacity.org/A-Safe-City/Crime-Data-from-2010-to-Present/y8tr-7khq)
 
 
-![footer](img/footer.jpg)
