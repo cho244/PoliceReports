@@ -42,7 +42,7 @@ Initially after cleaning up and graphing the data I tried implementing the Augme
 My next idea was Kolmogorov-Smirnov t-test. Kolmogorov-Smirnov t-test would test the average flux of the graph's movement month-to-month. Through that I would get the p-value, and if the p-value is above the threshold of 0.05 I reject the null hypothesis and the city of New York should re-evaluate the Police Department's priority.
 
 
-## 5. 
+## 5. Evaluation
 The p-value did not overcome the 0.05 threshold. Month-to-month has more variance. New York has more severe seasons while in the contrary California has more mild weather. Crime reports does is higher in warmer weathers for the colder areas. My dataset would probably perform better if I didn't seperate the years into months but I don't have enough months lined up.
 
 ## 6. Next Steps
