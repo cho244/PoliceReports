@@ -55,9 +55,8 @@ NY/LA		pvalue=1.945e-29
 NY/SF		pvalue=3.980e-75
 NY/Balt	pvalue=2.207e-06
 
-
 ## 6. Next Steps
-I would have to be careful with adjusting my p-vales and lower my threshold to make it more difficult to reject my null hypothesis, but I would like to go into each crime and see the statics on each one of them and the rate of change.
+I would have to be careful with adjusting my p-vales and lower my threshold to make it more difficult to reject my null hypothesis, but I would like to go into each crime and see the statics on each one of them and the rate of change. I would also look into more cities to have data to compare it to. I was thinking of waiting another 5 years and updating with a bigger dataset.
 
 
 
@@ -82,4 +81,3 @@ I loved my Statistical Thermodyamics Physics class. It wasn't just a class I fou
 6. [*LAPD Open Data Complaint Data Hortorical (2010-2018)*](https://data.lacity.org/A-Safe-City/Crime-Data-from-2010-to-Present/y8tr-7khq)
 
 
-![footer](img/footer.jpg)
